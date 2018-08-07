@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test from local PC
+=======
+Test from web (github)
+>>>>>>> 8e04ec15a8a2676bd21b2a3eb031f22ddbac1f21
